@@ -1,3 +1,6 @@
+# Personal workspace config
+.claude/
+
 # .NET
 **/bin/
 **/obj/

@@ -98,7 +98,7 @@ public class DbInitializer
             {
                 Title = "Future Activity 7",
                 Date = DateTime.Now.AddMonths(7),
-                Description = "Activity 2 months ago",
+                Description = "Activity 7 months in future",
                 Category = "travel",
                 City = "London",
                 Venue = "River Thames, England, United Kingdom",
